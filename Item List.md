@@ -18,7 +18,9 @@ banggood.com/RunCam-Phoenix-Oscar-Edition-1000tvl-13-Super-120dB-WDR-Mini-FPV-Ca
 # VTX
 https://www.banggood.com/Eachine-TX805-5_8G-40CH-25-or-200-or-600-or-800mW-FPV-Transmitter-TX-LED-Display-Support-OSD-or-Pitmode-or-Smart-Audio-p-1333984.html?akmClientCountry=GB&utm_campaign=728901_1333984&utm_content=10896&p=OY2106728901201408U4&ID=512671&cur_warehouse=UK
 
-# 
+# Goggles
+https://www.banggood.com/Skyzone-SKY03O-Oled-or-SKY03S-5_8GHz-48CH-Diversity-FPV-Goggles-Support-OSD-DVR-HDMI-With-Head-Tracker-Fan-LED-For-RC-Racing-Drone-p-1540508.html?akmClientCountry=GB&p=OY2106728901201408U4&ID=62683576268359&cur_warehouse=CN
+
 
 # Battery
 https://www.amazon.co.uk/GARTPOT-Rechargeable-Quadcopter-Helicopter-Multi-motor/dp/B07MVRZKXG/ref=sr_1_5?crid=1KUHCMEZYCJ1R&dchild=1&keywords=1500mah+4s+lipo+battery&qid=1590410054&sprefix=1500mAh++4%2Caps%2C148&sr=8-5
@@ -40,3 +42,6 @@ https://www.banggood.com/2pcs-Foxeer-5_8G-Lollipop-3-2_5DBi-Omni-FPV-Antenna-RHC
 https://www.amazon.co.uk/Loctite-2259681-Sealant-5g-Maintains-Transparent/dp/B07BP9JPC9/ref=sr_1_4?crid=2WRB00AH7772W&dchild=1&keywords=threadlocker&qid=1590411112&sprefix=threadlovck%2Caps%2C148&sr=8-4
 
 https://www.amazon.co.uk/Black-PVC-Electrical-Insulation-Tape/dp/B074SLM838/ref=sr_1_5?dchild=1&keywords=electrical+tape&qid=1590413565&sr=8-5
+
+# TODO
+https://oscarliang.com/flysky-tx-rx-buyers-guide/
